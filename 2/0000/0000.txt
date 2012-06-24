@@ -1,61 +1,65 @@
-むかいとう
+Keine Antwort
 Schwarz２
 Weiß２
 Mann
 Frau
 gegen
 Tausch
-とかい
-Landschaft
-あたまがいい
-うんどうできる
+Die Stadt
+Das Land
+klug
+sportlich
 Zeit
 Geld
-がいけん
-なかみ
+klug
+sportlich
 cool
 niedlich
-へんな
+komisch
 Floink
 Ottaro
 Serpifeu
-Wettbeberb
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
+Der Strand
+Ein Fluss
+Die Berge
+Unterricht
+Pausen
+Mittagessen
 Familie
 Freunde
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-Reality-Show
-ー
-ー
+sich selbst
+Frühling
+Sommer
+Herbst
+Winter
+süß
+scharf
+sauer
+bitter
 lustig
 cool
-leicht
+höflich
 reich
-Kampf
-sammeln
-sprechen
+Das Kämpfen
+Das Sammeln
+Die Story
 Pokémon
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
+Englisch
+Mathe
+Naturwissenschaften
+Sozialwissenschaft
+Englisch
+Mathe
+Naturwissenschaften
+Sozialwissenschaft
+Trainer
+Professor
+Team Plasma
+Pokémon
+Draußen spielen
+Einkaufen
+Lesen
+Videogames
 そとであそぶ
 かいもの
 どくしょ
@@ -133,14 +137,14 @@ Geist
 Drache
 Unlicht
 Stahl
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+0 - 10 Stunden
+10 - 20 Stunden
+20 - 30 Stunden
+30 - 40 Stunden
+40 - 50 Stunden
+50 - 60 Stunden
+60 - 70 Stunden
+70 - 80 Stunden
+80 - 90 Stunden
+90 - 100 Stunden
+mehr als 100 Stunden
